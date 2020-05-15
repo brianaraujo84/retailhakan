@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/brianaraujo84/retailhakan/static/css/main.1c2dcec6.chunk.css",
-    "main.js": "/brianaraujo84/retailhakan/static/js/main.7c9ab6f8.chunk.js",
-    "runtime-main.js": "/brianaraujo84/retailhakan/static/js/runtime-main.c10e9a5c.js",
-    "static/css/2.6f0f1d72.chunk.css": "/brianaraujo84/retailhakan/static/css/2.6f0f1d72.chunk.css",
-    "static/js/2.29488d85.chunk.js": "/brianaraujo84/retailhakan/static/js/2.29488d85.chunk.js",
-    "static/js/3.4d1f0bd6.chunk.js": "/brianaraujo84/retailhakan/static/js/3.4d1f0bd6.chunk.js",
-    "static/js/4.e5500349.chunk.js": "/brianaraujo84/retailhakan/static/js/4.e5500349.chunk.js",
-    "static/js/5.6fb9e2a9.chunk.js": "/brianaraujo84/retailhakan/static/js/5.6fb9e2a9.chunk.js",
-    "static/js/6.51ae3cd9.chunk.js": "/brianaraujo84/retailhakan/static/js/6.51ae3cd9.chunk.js",
-    "static/js/7.a54e9c9e.chunk.js": "/brianaraujo84/retailhakan/static/js/7.a54e9c9e.chunk.js",
-    "static/js/8.3a8ba0b7.chunk.js": "/brianaraujo84/retailhakan/static/js/8.3a8ba0b7.chunk.js",
-    "static/js/9.587438cd.chunk.js": "/brianaraujo84/retailhakan/static/js/9.587438cd.chunk.js",
-    "index.html": "/brianaraujo84/retailhakan/index.html",
-    "precache-manifest.8659a621648fc5a98da9f96eeb7886d2.js": "/brianaraujo84/retailhakan/precache-manifest.8659a621648fc5a98da9f96eeb7886d2.js",
-    "service-worker.js": "/brianaraujo84/retailhakan/service-worker.js",
-    "static/js/2.29488d85.chunk.js.LICENSE.txt": "/brianaraujo84/retailhakan/static/js/2.29488d85.chunk.js.LICENSE.txt",
-    "static/js/3.4d1f0bd6.chunk.js.LICENSE.txt": "/brianaraujo84/retailhakan/static/js/3.4d1f0bd6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/brianaraujo84/retailhakan/static/media/muli-latin-900italic.fb9b3ba4.woff2"
+    "main.css": "/limaretail.github.io/static/css/main.1c2dcec6.chunk.css",
+    "main.js": "/limaretail.github.io/static/js/main.41ce379d.chunk.js",
+    "runtime-main.js": "/limaretail.github.io/static/js/runtime-main.5c10515f.js",
+    "static/css/2.099242f8.chunk.css": "/limaretail.github.io/static/css/2.099242f8.chunk.css",
+    "static/js/2.641cf36e.chunk.js": "/limaretail.github.io/static/js/2.641cf36e.chunk.js",
+    "static/js/3.4d1f0bd6.chunk.js": "/limaretail.github.io/static/js/3.4d1f0bd6.chunk.js",
+    "static/js/4.e5500349.chunk.js": "/limaretail.github.io/static/js/4.e5500349.chunk.js",
+    "static/js/5.6fb9e2a9.chunk.js": "/limaretail.github.io/static/js/5.6fb9e2a9.chunk.js",
+    "static/js/6.51ae3cd9.chunk.js": "/limaretail.github.io/static/js/6.51ae3cd9.chunk.js",
+    "static/js/7.a54e9c9e.chunk.js": "/limaretail.github.io/static/js/7.a54e9c9e.chunk.js",
+    "static/js/8.3a8ba0b7.chunk.js": "/limaretail.github.io/static/js/8.3a8ba0b7.chunk.js",
+    "static/js/9.587438cd.chunk.js": "/limaretail.github.io/static/js/9.587438cd.chunk.js",
+    "index.html": "/limaretail.github.io/index.html",
+    "precache-manifest.7dea7690c09c62844201804f882b979f.js": "/limaretail.github.io/precache-manifest.7dea7690c09c62844201804f882b979f.js",
+    "service-worker.js": "/limaretail.github.io/service-worker.js",
+    "static/js/2.641cf36e.chunk.js.LICENSE.txt": "/limaretail.github.io/static/js/2.641cf36e.chunk.js.LICENSE.txt",
+    "static/js/3.4d1f0bd6.chunk.js.LICENSE.txt": "/limaretail.github.io/static/js/3.4d1f0bd6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/limaretail.github.io/static/media/muli-latin-900italic.fb9b3ba4.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.c10e9a5c.js",
-    "static/css/2.6f0f1d72.chunk.css",
-    "static/js/2.29488d85.chunk.js",
+    "static/js/runtime-main.5c10515f.js",
+    "static/css/2.099242f8.chunk.css",
+    "static/js/2.641cf36e.chunk.js",
     "static/css/main.1c2dcec6.chunk.css",
-    "static/js/main.7c9ab6f8.chunk.js"
+    "static/js/main.41ce379d.chunk.js"
   ]
 }
