@@ -5,7 +5,11 @@ export const GET_CONTACTS = '[CONTACTS APP] GET CONTACTS';
 export const SET_SEARCH_TEXT = '[CONTACTS APP] SET SEARCH TEXT';
 
 export function getContacts(routeParams) {
-	console.log(routeParams)
+	console.log(routeParams.id)
+
+	if(routeParams.id === 'all'){
+		routeParams.id= ''
+	}
 	const request = firebaseService.getSpreadData(routeParams.id)
 
 

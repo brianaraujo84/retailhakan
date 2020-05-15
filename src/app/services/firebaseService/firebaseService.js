@@ -105,9 +105,7 @@ class FirebaseService {
 			this.db
 				.ref("03-20").orderByKey().equalTo(idarchivo)
 				.on("child_added", snapshot => {
-
 					data = snapshot.val();
-					console.log(data)
 					resolve(data);
 				});
 		});
@@ -127,7 +125,6 @@ class FirebaseService {
 				.once('value')
 				.then(snapshot => {
 					data = snapshot.val();
-					console.log(data)
 					resolve(data);
 				});
 		});

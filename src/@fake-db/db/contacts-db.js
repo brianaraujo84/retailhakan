@@ -110,8 +110,6 @@ mock.onGet('/api/contacts-app/contacts').reply(config => {
 	let response = [];
 	const resultado = firebaseService.getSpreadHijo('6897694273').then(
 		response => {
-			console.log("hola?")
-			console.log(response)
 			return response
 		}
 	).then();
