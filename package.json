@@ -1,5 +1,6 @@
 {
-    "name": "fuse-react-app",
+    "name": "Retail",
+    "homepage": "https://github.com/brianaraujo84/retailhakan",
     "version": "4.1.5",
     "private": true,
     "dependencies": {
